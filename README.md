@@ -23,4 +23,4 @@ The tutorial can be found on the Express.js website:
    $ node helloExpress.js
    ```   
    
-   <img src="curl.png?raw=true" alt="cURL Commands" width="600px" align="left" />
+   <img src="curl.png?raw=true" alt="cURL Commands" width="500px" align="left" />
