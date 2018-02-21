@@ -1,0 +1,22 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "A simple introduction to Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxrjohnson23/Express-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxrjohnson23/Express-app/issues"
+  },
+  "homepage": "https://github.com/maxrjohnson23/Express-app#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
