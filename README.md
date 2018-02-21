@@ -1,5 +1,5 @@
 # Express-app
-###A simple introduction to Express.js
+### A simple introduction to Express.js
 
 ### Tutorial
 The tutorial can be found on the Express.js website:
@@ -23,6 +23,4 @@ The tutorial can be found on the Express.js website:
    $ node helloExpress.js
    ```   
    
-<p align="center">
-   <img src="curl.png?raw=true" alt="cURL Commands" width="400px" align="center" />
-</p>
+   <img src="curl.png?raw=true" alt="cURL Commands" width="400px" align="left" />
